@@ -28,7 +28,7 @@ topdir=$(pwd)
 rm -f csplit-sections-*
 
 # Split the community translations by sections
-csplit ../wiki.wiki/Community-translations.md '/^# /' '{*}' --prefix csplit-sections- > /dev/null
+csplit ../wiki.wiki/Community-Translations.md '/^# /' '{*}' --prefix csplit-sections- > /dev/null
 
 for section in csplit-sections-* ; do
 	cd $topdir
