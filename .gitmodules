@@ -1,0 +1,3 @@
+[submodule "Languages/foundryvtt-german"]
+	path = Languages/foundryvtt-german
+	url = https://github.com/Hydroxi/foundryvtt-german
