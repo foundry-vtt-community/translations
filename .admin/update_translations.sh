@@ -78,5 +78,5 @@ for section in csplit-sections-* ; do
 done
 rm -f csplit-sections-*
 
-cat header.md translations.md > translations.md
+cat header.md translations.md > README.md
 rm translations.md
