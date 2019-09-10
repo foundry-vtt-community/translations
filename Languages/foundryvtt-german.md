@@ -10,3 +10,5 @@
 ### Description
 German i18n translation for Foundry VTT.
 
+---
+
