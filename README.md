@@ -1,5 +1,7 @@
 # Foundry VTT Translations Repository
 
+[![Build Status](https://travis-ci.org/foundry-vtt-community/translations.svg?branch=master)](https://travis-ci.org/foundry-vtt-community/translations)
+
 Foundry translations that work across all or most systems are noted here.
 
 To clone this repository, along with every translation in it, use the following command:
