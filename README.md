@@ -24,6 +24,7 @@ git submodule update name-of-the-translation
 <!--ts-->
    * [Languages](#languages)
       * [German](#german)
+      * [Portuguese (BR)](#portuguese-br)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Translation](#appendix-a-adding-a-translation)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -33,4 +34,7 @@ git submodule update name-of-the-translation
 
 ## [German](Languages/foundryvtt-german.md)
 German i18n translation for Foundry VTT.
+
+## [Portuguese (BR)](Languages/.md)
+Foundry VTT Brazilian (Portuguese) translation. You can install it using the following manifest URL `https://gitlab.com/elvis-pereira/foundryvtt-brazilian-portuguese/raw/master/pt-BR/module.json`
 
