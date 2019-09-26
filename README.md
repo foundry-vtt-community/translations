@@ -39,6 +39,6 @@ This module adds the option to select the French (FRANCE) language from the Foun
 ## [German](Languages/foundryvtt-german.md)
 German i18n translation for Foundry VTT.
 
-## [Portuguese (BR)](Languages/.md)
-Foundry VTT Brazilian (Portuguese) translation. You can install it using the following manifest URL `https://gitlab.com/elvis-pereira/foundryvtt-brazilian-portuguese/raw/master/pt-BR/module.json`
+## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
+Foundry VTT Brazilian (Portuguese) translation.
 
