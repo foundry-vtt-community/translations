@@ -1,9 +1,3 @@
 [submodule "Languages/foundryvtt-german"]
 	path = Languages/foundryvtt-german
 	url = https://github.com/Hydroxi/foundryvtt-german
-[submodule "https:/gitlab.com/elvis-pereira/foundryvtt-brazilian-portuguese/raw/master/pt-BR/module.json"]
-	path = https:/gitlab.com/elvis-pereira/foundryvtt-brazilian-portuguese/raw/master/pt-BR/module.json
-	url = https://gitlab.com/elvis-pereira/foundryvtt-brazilian-portuguese
-[submodule "https:/gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/raw/master/fr-FR/module.json"]
-	path = https:/gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr/raw/master/fr-FR/module.json
-	url = https://gitlab.com/baktov.sugar/foundryvtt-lang-fr-fr
