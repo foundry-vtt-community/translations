@@ -33,12 +33,12 @@ git submodule update name-of-the-translation
 
 # Languages
 
-## [French](Languages/.md)
+## [French](Languages/module.json%60.md)
 This module adds the option to select the French (FRANCE) language from the FoundryVTT settings menu.
 
 ## [German](Languages/foundryvtt-german.md)
 German i18n translation for Foundry VTT.
 
-## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
+## [Portuguese (BR)](Languages/module.json.md)
 Foundry VTT Brazilian (Portuguese) translation.
 
