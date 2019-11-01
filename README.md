@@ -37,7 +37,7 @@ git submodule update name-of-the-translation
 This module adds the option to select the French (FRANCE) language from the FoundryVTT settings menu.
 
 ## [German](Languages/foundryvtt-german.md)
-German i18n translation for Foundry VTT.
+This module adds the option to select the German (GERMANY) language from the FoundryVTT settings menu.
 
 ## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
 Foundry VTT Brazilian (Portuguese) translation.
