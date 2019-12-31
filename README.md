@@ -42,3 +42,6 @@ This module adds the option to select the German (GERMANY) language from the Fou
 ## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
 Foundry VTT Brazilian (Portuguese) translation.
 
+## [Russian (RU)](Languages/foundry-vtt-ru.md)
+This module adds the Russian language to Foundry VTT. Additionally, it translates D&D5 and WFRP4 systems.
+
