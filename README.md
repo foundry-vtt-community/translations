@@ -26,6 +26,7 @@ git submodule update name-of-the-translation
       * [French](#french)
       * [German](#german)
       * [Portuguese (BR)](#portuguese-br)
+      * [Russian (RU)](#russian-ru)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Translation](#appendix-a-adding-a-translation)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
