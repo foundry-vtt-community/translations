@@ -7,3 +7,6 @@
 [submodule "Languages/foundryvtt-brazilian-portuguese"]
 	path = Languages/foundryvtt-brazilian-portuguese
 	url = https://gitlab.com/elvis-pereira/foundryvtt-brazilian-portuguese
+[submodule "Languages/foundry-vtt-ru"]
+	path = Languages/foundry-vtt-ru
+	url = https://github.com/Phenomen/foundry-vtt-ru
