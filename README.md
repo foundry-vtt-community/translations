@@ -35,7 +35,7 @@ git submodule update name-of-the-translation
 # Languages
 
 ## [French](Languages/foundryvtt-lang-fr-fr.md)
-This module adds the option to select the French (FRANCE) language from the FoundryVTT settings menu.
+This module adds the option to translate in French (FRANCE) language Starfinder System.
 
 ## [German](Languages/foundryvtt-german.md)
 This module adds the option to select the German (GERMANY) language from the FoundryVTT settings menu.
