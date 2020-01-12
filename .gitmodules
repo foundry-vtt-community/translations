@@ -10,3 +10,6 @@
 [submodule "Languages/foundry-vtt-ru"]
 	path = Languages/foundry-vtt-ru
 	url = https://github.com/Phenomen/foundry-vtt-ru
+[submodule "Languages/foundryvtt-lang-it-it"]
+	path = Languages/foundryvtt-lang-it-it
+	url = https://gitlab.com/riccisi/foundryvtt-lang-it-it

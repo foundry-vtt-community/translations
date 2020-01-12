@@ -25,6 +25,7 @@ git submodule update name-of-the-translation
    * [Languages](#languages)
       * [French](#french)
       * [German](#german)
+      * [Italian](#italian)
       * [Portuguese (BR)](#portuguese-br)
       * [Russian (RU)](#russian-ru)
    * [Appendix](#appendix)
@@ -39,6 +40,9 @@ This module adds the option to translate in French (FRANCE) language Starfinder 
 
 ## [German](Languages/foundryvtt-german.md)
 This module adds the option to select the German (GERMANY) language from the FoundryVTT settings menu.
+
+## [Italian](Languages/foundryvtt-lang-it-it.md)
+This module adds the option to translate in Italian language the "Dungeon and Dragon" 5th edition System.
 
 ## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
 Foundry VTT Brazilian (Portuguese) translation.
