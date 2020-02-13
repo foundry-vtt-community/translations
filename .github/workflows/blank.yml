@@ -1,0 +1,29 @@
+name: CI for Translations Repo
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */2 * * *' #Every 2hrs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Scripts
+      run: |     
+        git config user.name "Wiki Sync"
+        git config user.email "fvtt-travisci@mail.com"
+        cd ..
+        git clone https://github.com/foundry-vtt-community/wiki.wiki.git
+        cd translations
+        mv .admin/header.md .&& mv .admin/update_translations.sh .
+        chmod a+x update_translations.sh
+        ./update_translations.sh && git add README.md
+        if [[ "$(git diff --cached)" != "" ]] ; then
+            git commit -m "Update README.md Translations listing (Automatic)"
+        fi
+        git push https://$GITHUB_API_KEY@github.com/foundry-vtt-community/translations.git HEAD:master
+
