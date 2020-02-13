@@ -1,6 +1,6 @@
 # Foundry VTT Translations Repository
 
-[![Build Status](https://travis-ci.org/foundry-vtt-community/translations.svg?branch=master)](https://travis-ci.org/foundry-vtt-community/translations)
+![CI for Translations Repo](https://github.com/foundry-vtt-community/translations/workflows/CI%20for%20Translations%20Repo/badge.svg)
 
 Foundry translations that work across all or most systems are noted here.
 
