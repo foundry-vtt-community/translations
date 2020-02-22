@@ -45,7 +45,7 @@ This module adds the option to select the German (GERMANY) language from the Fou
 This module adds the option to translate in Italian language the "Dungeon and Dragon" 5th edition System.
 
 ## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
-Foundry VTT Brazilian (Portuguese) translation.
+This module adds the option to translate to Portuguese language the FoundryVTT Dungeons and Dragons 5th Edition System. This modules only translates words in places related to the DND 5E system, like sheets and rolls. This module doesn't translate other parts of the FoundryVTT interface.
 
 ## [Russian (RU)](Languages/foundry-vtt-ru.md)
 This module adds the Russian language to Foundry VTT.
