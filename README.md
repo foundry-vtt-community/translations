@@ -23,17 +23,22 @@ git submodule update name-of-the-translation
 <!--tl=2-->
 <!--ts-->
    * [Languages](#languages)
+      * [Chinese](#中文)
       * [French](#french)
       * [German](#german)
       * [Italian](#italian)
       * [Portuguese (BR)](#portuguese-br)
       * [Russian (RU)](#russian-ru)
+
    * [Appendix](#appendix)
       * [Appendix A: Adding a Translation](#appendix-a-adding-a-translation)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
 <!--te-->
 
 # Languages
+
+## [Chinese 中文（简体）](Languages/cn-CN.md)
+将中文添加到FoundryVTT的核心系统中。之后在游戏世界中的设置选择语言为【中文（简体）】即可。
 
 ## [French](Languages/foundryvtt-lang-fr-fr.md)
 This module adds the option to translate in French (FRANCE) language Starfinder System.
