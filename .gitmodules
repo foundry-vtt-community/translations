@@ -13,3 +13,6 @@
 [submodule "Languages/foundryvtt-lang-it-it"]
 	path = Languages/foundryvtt-lang-it-it
 	url = https://gitlab.com/riccisi/foundryvtt-lang-it-it
+[submodule "Languages/FoundryVTT-lang-ko-KR"]
+	path = Languages/FoundryVTT-lang-ko-KR
+	url = https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR

@@ -27,6 +27,7 @@ git submodule update name-of-the-translation
       * [French](#french)
       * [German](#german)
       * [Italian](#italian)
+      * [Korean](#korean)
       * [Portuguese (BR)](#portuguese-br)
       * [Russian (RU)](#russian-ru)
    * [Appendix](#appendix)
@@ -47,6 +48,9 @@ This module adds the option to select the German (GERMANY) language from the Fou
 
 ## [Italian](Languages/foundryvtt-lang-it-it.md)
 This module adds the option to translate in Italian language the "Dungeon and Dragon" 5th edition System.
+
+## [Korean](Languages/FoundryVTT-lang-ko-KR.md)
+This module adds the option to select the Korean language from the FoundryVTT settings menu. Selecting this option will translate various aspects of the program interface.
 
 ## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
 This module adds the option to translate to Portuguese language the FoundryVTT Dungeons and Dragons 5th Edition System. This modules only translates words in places related to the DND 5E system, like sheets and rolls. This module doesn't translate other parts of the FoundryVTT interface.
