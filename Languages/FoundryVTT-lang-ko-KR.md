@@ -2,7 +2,7 @@
 
 ### Core Game FoundryVTT 
 * **Author**: Shoyu Vanilla#3445 on Discord
-* **Version**: 0.1.0
+* **Version**: 0.1.2
 * **Foundry VTT Compatibility**: 0.47+
 
 #### Link(s) to Translation
