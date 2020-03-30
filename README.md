@@ -30,6 +30,7 @@ git submodule update name-of-the-translation
       * [Korean](#korean)
       * [Portuguese (BR)](#portuguese-br)
       * [Russian (RU)](#russian-ru)
+      * [Spanish](#spanish)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Translation](#appendix-a-adding-a-translation)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -57,4 +58,7 @@ This module adds the option to translate to Portuguese language the FoundryVTT D
 
 ## [Russian (RU)](Languages/foundry-vtt-ru.md)
 This module adds the Russian language to Foundry VTT.
+
+## [Spanish](Languages/foundryvtt-es.md)
+This module adds the option to select the Spanish (Español) language from the FoundryVTT settings menu.
 

@@ -16,3 +16,6 @@
 [submodule "Languages/FoundryVTT-lang-ko-KR"]
 	path = Languages/FoundryVTT-lang-ko-KR
 	url = https://github.com/ShoyuVanilla/FoundryVTT-lang-ko-KR
+[submodule "Languages/foundryvtt-es"]
+	path = Languages/foundryvtt-es
+	url = https://gitlab.com/carlosjrlu/foundryvtt-es/
