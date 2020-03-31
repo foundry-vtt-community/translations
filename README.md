@@ -60,5 +60,5 @@ This module adds the option to translate to Portuguese language the FoundryVTT D
 This module adds the Russian language to Foundry VTT.
 
 ## [Spanish](Languages/foundryvtt-es.md)
-This module adds the option to select the Spanish (Español) language from the FoundryVTT settings menu.
+This module adds the option to translate the FoundryVTT Dungeons and Dragons 5th Edition System to Spanish (Español). This module only translates words related to the D&D 5E system, like sheets and rolls. (Soon: Compendium)
 
