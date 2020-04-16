@@ -42,7 +42,7 @@ git submodule update name-of-the-translation
 将中文添加到FoundryVTT的核心系统中。之后在游戏世界中的设置选择语言为【中文（简体）】即可。
 
 ## [French](Languages/foundryvtt-lang-fr-fr.md)
-This module adds the option to translate in French (FRANCE) language Starfinder System.
+This module adds the option to translate in French (FRANCE) language Warhammer 4 FRP system.
 
 ## [German](Languages/foundryvtt-german.md)
 This module adds the option to select the German (GERMANY) language from the FoundryVTT settings menu.
