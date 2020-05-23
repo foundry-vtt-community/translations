@@ -56,8 +56,8 @@ This module adds the option to select the Korean language from the FoundryVTT se
 ## [Portuguese (BR)](Languages/foundryvtt-brazilian-portuguese.md)
 This module adds the option to translate to Portuguese language the FoundryVTT Dungeons and Dragons 5th Edition System. This modules only translates words in places related to the DND 5E system, like sheets and rolls. This module doesn't translate other parts of the FoundryVTT interface.
 
-## [Russian (RU)](Languages/foundry-vtt-ru.md)
-This module adds the Russian language to Foundry VTT.
+## [Russian (Foundry, D&D5, Dungeon World)](Languages/foundry-vtt-ru.md)
+Russian language for FoundryVTT and D&D5, Dungeon World system.
 
 ## [Spanish](Languages/foundryvtt-es.md)
 This module adds the option to translate the FoundryVTT Dungeons and Dragons 5th Edition System to Spanish (Español). This module only translates words related to the D&D 5E system, like sheets and rolls. (Soon: Compendium)
