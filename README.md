@@ -29,7 +29,7 @@ git submodule update name-of-the-translation
       * [Italian](#italian)
       * [Korean](#korean)
       * [Portuguese (BR)](#portuguese-br)
-      * [Russian (RU)](#russian-ru)
+      * [Russian (Foundry, D&amp;D5, Dungeon World)](#russian-foundry-dd5-dungeon-world)
       * [Spanish](#spanish)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Translation](#appendix-a-adding-a-translation)
